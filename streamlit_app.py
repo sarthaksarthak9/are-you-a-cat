@@ -25,7 +25,7 @@ def main():
         configs = yaml.safe_load(file)
     s3 = s3fs.S3FileSystem(anon=False)
 
-    st.title("Are you a cat?")
+    st.title("VisionFlow – End-to-End MLOps Pipeline")
 
     high_level_image = Image.open("_assets/cat.jpg")
     show = st.image(high_level_image, use_column_width=True, caption="Well, are you?")
@@ -51,7 +51,7 @@ def main():
     If the model performance is satisfactory, the model is deployed. \n
     \n
     There is a lot more I plan to do to improve this pipeline. Details are in \
-    the [Github repo README](https://github.com/MarinaWyss/are-you-a-cat), \
+    the [Github repo README](https://github.com/sarthaksarthak9/are-you-a-cat), \
     so keep an eye out for updates.
     """
     )

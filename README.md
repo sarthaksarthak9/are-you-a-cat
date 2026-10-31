@@ -1,8 +1,8 @@
-# Are You A Cat? (A MLops Project)
+# VisionFlow – End-to-End MLOps Pipeline
 
-![Test status](https://github.com/MarinaWyss/zenml-mlops-competition/workflows/run-tests/badge.svg)
+![Test status](https://github.com/sarthaksarthak9/zenml-mlops-competition/workflows/run-tests/badge.svg)
 
-![my cat](https://github.com/MarinaWyss/are-you-a-cat/blob/main/_assets/cat.jpg?raw=true)
+![VisionFlow](utils/images/image.png)
 
 ### Problem Statement
 Sometimes it is hard to know if you are a cat or not. The goal of this project is to use deep learning to help with that.
@@ -11,7 +11,7 @@ J/K. It's really about me practicing some MLOps and deep learning stuff. There's
 
 ### The Solution
 
-![pipeline](https://github.com/MarinaWyss/are-you-a-cat/blob/main/_assets/pipeline.png?raw=true)
+![pipeline](utils/images/image%20copy.png)
 
 This project uses [ZenML](https://zenml.io/home) to build a simple end-to-end pipeline for a model to identify if a photo (selfie) uploaded to a Streamlit app is of a cat or not.
 
