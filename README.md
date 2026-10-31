@@ -1,7 +1,5 @@
 # VisionFlow – End-to-End MLOps Pipeline
 
-![Test status](https://github.com/sarthaksarthak9/zenml-mlops-competition/workflows/run-tests/badge.svg)
-
 ![VisionFlow](utils/images/image.png)
 
 ### Problem Statement
